@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x install.sh
+
 python3 -m pip install -r requirements.txt
 
 sudo apt-get install -y wget
